@@ -9,14 +9,14 @@ let clickCount = 0
 function preload() {
 
   cityPictures = [
-    loadImage('assets/bg1.jpg'),
-    loadImage('assets/bg2.png'),
-    loadImage('assets/bg3.png')
+    loadImage('Xiaoyu1013/Project3-Xianassets/bg1.jpg'),
+    loadImage('Xiaoyu1013/Project3-Xianassets/bg2.png'),
+    loadImage('Xiaoyu1013/Project3-Xianassets/bg3.png')
   ]
   simplePictures = [
-    { url: loadImage('assets/dayanta.jpeg'), w: 135, h: 161 },
-    { url: loadImage('assets/xian.jpeg'), w: 203, h: 203 },
-    { url: loadImage('assets/zhonglou.jpeg'), w: 141, h: 90 },
+    { url: loadImage('Xiaoyu1013/Project3-Xianassets/dayanta.jpeg'), w: 135, h: 161 },
+    { url: loadImage('Xiaoyu1013/Project3-Xianassets/xian.jpeg'), w: 203, h: 203 },
+    { url: loadImage('Xiaoyu1013/Project3-Xianassets/zhonglou.jpeg'), w: 141, h: 90 },
   ]
 }
 
