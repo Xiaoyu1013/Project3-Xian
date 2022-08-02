@@ -14,9 +14,9 @@ function preload() {
     loadImage('https://xiaoyu1013.github.io/Project3-Xian/assets/bg3.png')
   ]
   simplePictures = [
-    loadImage('https://xiaoyu1013.github.io/Project3-Xian/assets/dayanta.jpeg'), w: 135, h: 161 },
-    loadImage('https://xiaoyu1013.github.io/Project3-Xian/assets/xian.jpeg'), w: 203, h: 203 },
-    loadImage('https://xiaoyu1013.github.io/Project3-Xian/assets/zhonglou.jpeg'), w: 141, h: 90 },
+    { url: loadImage('https://xiaoyu1013.github.io/Project3-Xian/assets/dayanta.jpeg'), w: 135, h: 161 },
+    { url: loadImage('https://xiaoyu1013.github.io/Project3-Xian/assets/xian.jpeg'), w: 203, h: 203 },
+    { url: loadImage('https://xiaoyu1013.github.io/Project3-Xian/assets/zhonglou.jpeg'), w: 141, h: 90 },
   ]
 }
 
